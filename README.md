@@ -30,7 +30,6 @@ VS Code • Jupyter Notebook
 ## 🚀 Featured Projects
 
 * **Kumbh SurakshaNet** — AI-powered crowd safety and navigation system
-* **MuleGuard AI** — AI-based fraud and mule-account detection system
 * **Student Management System** — Database-driven student management application
 * **Data Science Projects** — Data analysis and visualization using Python
 
